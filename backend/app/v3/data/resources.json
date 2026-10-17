@@ -1,0 +1,247 @@
+{
+ "note": "Add state-specific entries with e.g. \"states\": [\"Uttar Pradesh\"]. Set last_verified after checking.",
+ "items": [
+  {
+   "id": "r112",
+   "name": "Emergency Response Support System (ERSS)",
+   "issues": [
+    "Emergency",
+    "Police",
+    "Women safety"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Single emergency number for police, fire and ambulance.",
+   "helpline": "112",
+   "website": "",
+   "how_to": "Call 112 from any phone.",
+   "last_verified": null
+  },
+  {
+   "id": "r1930",
+   "name": "National Cyber Crime Reporting Portal / Helpline",
+   "issues": [
+    "Cyber fraud",
+    "Online harassment"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Report financial fraud, hacking, online harassment and other cybercrime.",
+   "helpline": "1930",
+   "website": "https://cybercrime.gov.in/",
+   "how_to": "Call 1930 immediately after a financial fraud, then file the complaint online.",
+   "last_verified": null
+  },
+  {
+   "id": "rnch",
+   "name": "National Consumer Helpline (NCH)",
+   "issues": [
+    "Consumer",
+    "Refund",
+    "E-commerce"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Pre-litigation consumer grievance redressal and guidance.",
+   "helpline": "1915",
+   "website": "https://consumerhelpline.gov.in/",
+   "how_to": "Register a grievance online or call 1915 (also 1800-11-4000).",
+   "last_verified": null
+  },
+  {
+   "id": "redaakhil",
+   "name": "e-Daakhil (online consumer case filing)",
+   "issues": [
+    "Consumer"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "File consumer complaints in District/State/National Commissions online.",
+   "helpline": "",
+   "website": "https://edaakhil.nic.in/",
+   "how_to": "Register, upload complaint and documents, pay fee online if applicable.",
+   "last_verified": null
+  },
+  {
+   "id": "rnalsa",
+   "name": "NALSA / District Legal Services Authority",
+   "issues": [
+    "Free legal aid",
+    "Any legal issue"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Free legal services for eligible persons.",
+   "helpline": "15100",
+   "website": "https://nalsa.gov.in/",
+   "how_to": "Call 15100 or visit the DLSA office in the district court complex.",
+   "last_verified": null
+  },
+  {
+   "id": "rtele",
+   "name": "Tele-Law",
+   "issues": [
+    "Free legal aid",
+    "Any legal issue"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Legal advice from panel lawyers through Common Service Centres.",
+   "helpline": "",
+   "website": "https://www.tele-law.in/",
+   "how_to": "Visit your nearest Common Service Centre.",
+   "last_verified": null
+  },
+  {
+   "id": "rwomen",
+   "name": "Women Helpline",
+   "issues": [
+    "Women safety",
+    "Domestic violence"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "24x7 support for women facing violence.",
+   "helpline": "181",
+   "website": "",
+   "how_to": "Call 181. In immediate danger call 112.",
+   "last_verified": null
+  },
+  {
+   "id": "rchild",
+   "name": "CHILDLINE",
+   "issues": [
+    "Child safety"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Emergency help for children in distress.",
+   "helpline": "1098",
+   "website": "https://www.childlineindia.org/",
+   "how_to": "Call 1098.",
+   "last_verified": null
+  },
+  {
+   "id": "rsenior",
+   "name": "Elderline",
+   "issues": [
+    "Senior citizens"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Support and information for senior citizens.",
+   "helpline": "14567",
+   "website": "",
+   "how_to": "Call 14567.",
+   "last_verified": null
+  },
+  {
+   "id": "rcpgrams",
+   "name": "CPGRAMS (Public Grievance Portal)",
+   "issues": [
+    "Government services",
+    "Corruption",
+    "Delay"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Lodge grievances against central/state government departments.",
+   "helpline": "",
+   "website": "https://pgportal.gov.in/",
+   "how_to": "Register and submit your grievance with documents; track status online.",
+   "last_verified": null
+  },
+  {
+   "id": "rrti",
+   "name": "RTI Online (central government)",
+   "issues": [
+    "RTI",
+    "Government information"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "File RTI applications to central public authorities online.",
+   "helpline": "",
+   "website": "https://rtionline.gov.in/",
+   "how_to": "Fill the form, pay the fee online. For state departments use the state's RTI portal.",
+   "last_verified": null
+  },
+  {
+   "id": "rrbi",
+   "name": "RBI Complaint Management System",
+   "issues": [
+    "Banking",
+    "Loan",
+    "Credit card",
+    "Digital payments"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Complaints against banks, NBFCs and payment providers after the entity has not resolved it.",
+   "helpline": "14448",
+   "website": "https://cms.rbi.org.in/",
+   "how_to": "First complain to the bank; if no reply in 30 days or reply unsatisfactory, file on CMS.",
+   "last_verified": null
+  },
+  {
+   "id": "rirdai",
+   "name": "IRDAI Bima Bharosa",
+   "issues": [
+    "Insurance"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Insurance complaints (health, life, motor).",
+   "helpline": "",
+   "website": "https://bimabharosa.irdai.gov.in/",
+   "how_to": "Complain to the insurer first, then register on Bima Bharosa.",
+   "last_verified": null
+  },
+  {
+   "id": "rsebi",
+   "name": "SEBI SCORES",
+   "issues": [
+    "Investments",
+    "Shares",
+    "Mutual funds"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Complaints against listed companies and SEBI-registered intermediaries.",
+   "helpline": "",
+   "website": "https://scores.sebi.gov.in/",
+   "how_to": "Register and file complaint online.",
+   "last_verified": null
+  },
+  {
+   "id": "rrera",
+   "name": "State RERA authority",
+   "issues": [
+    "Real estate",
+    "Builder delay"
+   ],
+   "states": [
+    "All India"
+   ],
+   "what": "Every state has its own RERA website for projects and complaints.",
+   "helpline": "",
+   "website": "",
+   "how_to": "Search '<your state> RERA' and use the official .gov.in site.",
+   "last_verified": null
+  }
+ ]
+}

@@ -1,0 +1,218 @@
+{
+ "note": "Items with last_verified = null have NOT been checked yet. Check each number/website, then put today's date (YYYY-MM-DD) in last_verified. State-specific offices can be added with a 'states' list.",
+ "items": [
+  {
+   "id": "arrest",
+   "topic": "Police & arrest",
+   "title": "If you are arrested",
+   "summary": "The Constitution and criminal procedure give you basic protections from the moment of arrest.",
+   "points": [
+    "You must be told the grounds of arrest (Article 22(1); CrPC 50, now BNSS 47).",
+    "You can ask police to inform a relative or friend (CrPC 50A, now BNSS 48).",
+    "You have the right to consult a lawyer of your choice.",
+    "You must be produced before a Magistrate within 24 hours, excluding travel time (Article 22(2); CrPC 57, now BNSS 58).",
+    "Ask for a medical examination if you were hurt. Police must follow the D.K. Basu guidelines (Supreme Court, 1997): arrest memo, witness, entry in diary.",
+    "Do not sign blank papers. You may stay silent beyond giving basic identity details."
+   ],
+   "act": "Constitution Art. 20-22; BNSS 2023",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  },
+  {
+   "id": "fir",
+   "topic": "Police & arrest",
+   "title": "Filing an FIR",
+   "summary": "Police must register an FIR when you report a cognizable offence.",
+   "points": [
+    "FIR can be given orally or in writing; get a free copy (CrPC 154, now BNSS 173).",
+    "You can file a Zero FIR at any police station, even outside the area; it is then transferred.",
+    "If police refuse, send the complaint in writing to the Superintendent of Police (CrPC 154(3), now BNSS 173(4)).",
+    "You can also ask the Magistrate to order an investigation (CrPC 156(3), now BNSS 175(3)).",
+    "Lalita Kumari v. Govt of U.P. (2014): registration is mandatory for cognizable offences."
+   ],
+   "act": "BNSS 2023",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  },
+  {
+   "id": "bail",
+   "topic": "Police & arrest",
+   "title": "Bail basics",
+   "summary": "Whether you can claim bail as a right depends on the type of offence.",
+   "points": [
+    "In a bailable offence, bail is a right (CrPC 436, now BNSS 478).",
+    "Non-bailable offences: the court decides (CrPC 437, now BNSS 480).",
+    "Anticipatory bail can be sought if you fear arrest (CrPC 438, now BNSS 482).",
+    "Default bail may be available if the investigation is not completed within the legal time limit (CrPC 167(2), now BNSS 187). Ask a lawyer to check the exact period."
+   ],
+   "act": "BNSS 2023",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  },
+  {
+   "id": "consumer",
+   "topic": "Consumer",
+   "title": "Defective product or poor service",
+   "summary": "The Consumer Protection Act, 2019 covers goods, services and e-commerce.",
+   "points": [
+    "First complain to the seller or company in writing and keep proof.",
+    "Call the National Consumer Helpline (1915) or use consumerhelpline.gov.in.",
+    "File a case in the District Consumer Commission, online through e-Daakhil. A lawyer is not compulsory.",
+    "Time limit: generally 2 years from the cause of action (Section 69).",
+    "You can ask for refund, replacement, removal of defect and compensation. Check current fee and money limits for each Commission."
+   ],
+   "act": "Consumer Protection Act, 2019",
+   "source_name": "Consumer Affairs Dept",
+   "source_url": "https://consumerhelpline.gov.in/",
+   "last_verified": null
+  },
+  {
+   "id": "tenant",
+   "topic": "Tenant & landlord",
+   "title": "Rights of a tenant",
+   "summary": "Rent laws differ by state. Your written agreement and state rent law decide most questions.",
+   "points": [
+    "A landlord cannot evict you by force, cut water/electricity, or lock you out. Eviction needs a legal process.",
+    "Insist on a written rent agreement and receipts for rent and deposit.",
+    "For a month-to-month tenancy, termination generally needs a notice (Transfer of Property Act s.106 gives 15 days where no other rule applies). Check your state rent law.",
+    "The Model Tenancy Act, 2021 is a model for states; only some states have adopted something similar.",
+    "Security deposit refund rules depend on the agreement and your state law."
+   ],
+   "act": "Transfer of Property Act 1882; state Rent Acts",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  },
+  {
+   "id": "employee",
+   "topic": "Employee",
+   "title": "Wages, termination and workplace rights",
+   "summary": "Labour law is being consolidated into new Labour Codes; check which rules apply to your job and state.",
+   "points": [
+    "Wages must be paid on time and without illegal deductions (Payment of Wages Act / Code on Wages).",
+    "PF and ESI contributions are mandatory for covered employees; check your passbook on the EPFO portal.",
+    "Maternity benefit: 26 weeks for the first two children (Maternity Benefit Act, as amended in 2017).",
+    "Workplaces with 10 or more employees must have an Internal Committee for sexual-harassment complaints (POSH Act, 2013).",
+    "For unfair termination or unpaid dues, approach the Labour Commissioner / Labour Court. Keep appointment letter, payslips and chats as proof."
+   ],
+   "act": "Payment of Wages Act; POSH Act 2013; Maternity Benefit Act 1961",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  },
+  {
+   "id": "rti",
+   "topic": "Government & RTI",
+   "title": "Right to Information (RTI)",
+   "summary": "Any citizen can ask a public authority for information.",
+   "points": [
+    "Write to the Public Information Officer (PIO) of the department; central application fee is Rs 10 (states differ). Persons below poverty line are exempt.",
+    "The reply is due within 30 days (48 hours if life or liberty is involved).",
+    "No reply or unsatisfactory reply: first appeal to the First Appellate Authority within 30 days.",
+    "Still unsatisfied: second appeal to the Information Commission within 90 days.",
+    "You need not give a reason for seeking information. Some information is exempt (Section 8)."
+   ],
+   "act": "Right to Information Act, 2005",
+   "source_name": "RTI Online",
+   "source_url": "https://rtionline.gov.in/",
+   "last_verified": null
+  },
+  {
+   "id": "legalaid",
+   "topic": "Free legal aid",
+   "title": "Free legal services",
+   "summary": "If you cannot afford a lawyer, the State provides one.",
+   "points": [
+    "Eligible groups include women, children, SC/ST members, persons in custody, persons with disabilities, industrial workmen and persons below an income limit set by each state (Legal Services Authorities Act, Section 12).",
+    "Call NALSA helpline 15100 or visit the District Legal Services Authority (DLSA) in your district court complex.",
+    "Free legal aid is part of the right to equal justice (Article 39A).",
+    "Lok Adalats settle many disputes free of court fee."
+   ],
+   "act": "Legal Services Authorities Act, 1987",
+   "source_name": "NALSA",
+   "source_url": "https://nalsa.gov.in/",
+   "last_verified": null
+  },
+  {
+   "id": "cyber",
+   "topic": "Cyber & online fraud",
+   "title": "Online fraud or cybercrime",
+   "summary": "Speed matters. Report immediately so money can be frozen.",
+   "points": [
+    "Call 1930 or report at cybercrime.gov.in as soon as possible.",
+    "Inform your bank at once and ask them to block the card/account.",
+    "Under RBI customer-protection rules, your liability for unauthorised electronic transactions can be zero or limited if you report within the stated number of days. Report immediately and get a complaint number.",
+    "Save screenshots, transaction IDs, phone numbers, UPI IDs and messages."
+   ],
+   "act": "IT Act 2000; BNS 2023; RBI circulars",
+   "source_name": "Cybercrime Portal",
+   "source_url": "https://cybercrime.gov.in/",
+   "last_verified": null
+  },
+  {
+   "id": "bank",
+   "topic": "Banking & insurance",
+   "title": "Complaints against a bank or insurer",
+   "summary": "Go step by step: company first, regulator next.",
+   "points": [
+    "Bank: complain to the bank in writing and keep the acknowledgement. If no satisfactory reply in 30 days, file on RBI's CMS portal (RBI Ombudsman).",
+    "Insurance: complain to the insurer's grievance cell, then use IRDAI's Bima Bharosa portal or the Insurance Ombudsman.",
+    "Keep policy documents, claim forms and all correspondence."
+   ],
+   "act": "RBI Integrated Ombudsman Scheme 2021; IRDAI rules",
+   "source_name": "RBI CMS",
+   "source_url": "https://cms.rbi.org.in/",
+   "last_verified": null
+  },
+  {
+   "id": "women",
+   "topic": "Women & family",
+   "title": "Domestic violence and harassment",
+   "summary": "Several laws protect women from violence at home and work.",
+   "points": [
+    "Helplines: 181 (Women Helpline), 112 (emergency).",
+    "Protection of Women from Domestic Violence Act, 2005: protection orders, residence orders and monetary relief from a Magistrate.",
+    "Cruelty by husband or relatives is an offence (IPC 498A, now BNS 85).",
+    "Maintenance for wife, children and parents (CrPC 125, now BNSS 144).",
+    "A Zero FIR can be lodged at any police station."
+   ],
+   "act": "DV Act 2005; BNS 2023; BNSS 2023",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  },
+  {
+   "id": "senior",
+   "topic": "Women & family",
+   "title": "Senior citizens",
+   "summary": "Parents and senior citizens can claim maintenance from children or relatives.",
+   "points": [
+    "Apply to the Maintenance Tribunal under the Maintenance and Welfare of Parents and Senior Citizens Act, 2007.",
+    "Elderline helpline: 14567.",
+    "A senior citizen can seek cancellation of a gift/transfer of property if the transferee fails to provide basic needs, if the conditions of the Act are met."
+   ],
+   "act": "Maintenance and Welfare of Parents and Senior Citizens Act, 2007",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  },
+  {
+   "id": "property",
+   "topic": "Property & housing",
+   "title": "Builder delay or property fraud",
+   "summary": "Real-estate projects must be registered with the state RERA.",
+   "points": [
+    "Check the project and builder on your state RERA website.",
+    "For delayed possession you can claim interest/refund by filing a complaint with the state RERA authority.",
+    "Verify title documents and encumbrance certificate before paying large sums."
+   ],
+   "act": "Real Estate (Regulation and Development) Act, 2016",
+   "source_name": "India Code",
+   "source_url": "https://www.indiacode.nic.in/",
+   "last_verified": null
+  }
+ ]
+}

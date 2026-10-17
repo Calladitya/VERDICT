@@ -1,0 +1,49 @@
+# One-command local stack: Postgres + FastAPI backend + built frontend.
+# Usage:  docker compose up --build   →  frontend at http://localhost:8080
+
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: legal
+      POSTGRES_PASSWORD: legal
+      POSTGRES_DB: verdict
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U legal"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  backend:
+    build: ./backend
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: "postgresql+psycopg2://legal:legal@db:5432/verdict"
+      CORS_ORIGINS: "http://localhost:8080"
+      SECRET_KEY: "change-me-in-production"
+      # LLM: defaults to offline mock. To enable a real provider, set e.g.:
+      # LLM_PROVIDER: "anthropic"
+      # ANTHROPIC_API_KEY: "sk-ant-..."
+      LLM_PROVIDER: "mock"
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+      args:
+        # Point the built app at the backend origin.
+        VITE_API_BASE: "http://localhost:8000"
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+
+volumes:
+  pgdata:
